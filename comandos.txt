@@ -1,0 +1,7 @@
+pwd = saber donde estoy
+ls = saber que hay en la carpeta
+cd = cambiar de directorio (cd "destino")
+echar para atras = cd.. ó 
+cd . = referirse al documento que estoy
+clear = limpiar la pantalla
+mkdir = crear carpeta
